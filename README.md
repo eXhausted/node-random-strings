@@ -1,5 +1,5 @@
 # random-strings 0.0.1 [![Build Status](https://travis-ci.org/AndreasPizsa/node-random-strings.png?branch=master)](https://travis-ci.org/AndreasPizsa/node-random-strings)
-## Fast, beautiful, unique random Strings for node
+## Fast, beautiful, unique random Strings for React
 
 - __Fast.__ Integers only, no floating point operations. <3 your CPU!
 - __Beautiful.__ Use your own character set or go with one of the ready-made ones. 

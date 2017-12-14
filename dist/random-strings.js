@@ -1,7 +1,8 @@
 (function() {
   var alphabet, bufferToAlphabet, crypto, random;
 
-  crypto = require('crypto');
+  crypto = require('./crypto');
+  Buffer = crypto.Buffer
 
   module.exports.alphabet = alphabet = {
     alphaUpper: 'ABCDEFGHIJKLMNOPQRSTUVWXYZ',
